@@ -24,7 +24,7 @@
 ---
 
 ### Prompt 2
-- **Defect / Area Investigated**: 
+- **Defect / Area Investi**
 - **Exact Prompt Sent to AI**:
   > 
 
